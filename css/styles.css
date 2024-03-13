@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sect1{
+    width: 33.3%;
+    height: 50em;
+    background-color: black;
+    float: left;
+}
+.sect2{
+    width: 33.3%;
+    height: 50em;
+    background-color: yellow;
+    float: left;
+}
+.sect3{
+    width: 33.3%;
+    height: 50em;
+    background-color: black;
+    float: left;
+}
